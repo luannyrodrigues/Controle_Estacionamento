@@ -2,3 +2,4 @@
 ### Sistema de Controle do Estacionamento do IFSul Passo Fundo
 
 ## Diagrama de classes
+![Diagrama](/Assets/diagrama.png)
